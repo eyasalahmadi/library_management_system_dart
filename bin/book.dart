@@ -140,7 +140,7 @@ What do you want to edit ?
         break; 
        } 
        else { 
-        const String error3 = "Title cannot be empty try again";
+        const String error3 = "Title can not be empty try again";
       print(error3);
     }
   }
